@@ -11,11 +11,11 @@ order: 5
 
 ### Javascript
 
-#### <i class="fa fa-user-circle-o" aria-hidden="true"></i> 멘토
+#### 멘토
 
 - 미정
 
-#### <i class="fa fa-user-o" aria-hidden="true"></i> 멘티
+#### 멘티
 
 - 미정
 
@@ -23,11 +23,11 @@ order: 5
 
 ### React
 
-#### <i class="fa fa-user-circle-o" aria-hidden="true"></i> 멘토
+#### 멘토
 
 - 미정
 
-#### <i class="fa fa-user-o" aria-hidden="true"></i> 멘티
+#### 멘티
 
 - 미정
 
