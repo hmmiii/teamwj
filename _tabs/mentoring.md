@@ -36,7 +36,7 @@ order: 5
         data-repo-id="R_kgDOK-Fzzw"
         data-category="mentoring"
         data-category-id="DIC_kwDOK-Fzz84CcBPO"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
