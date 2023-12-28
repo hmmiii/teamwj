@@ -35,7 +35,7 @@ order: 5
         data-repo="hmmiii/teamwj"
         data-repo-id="R_kgDOK-Fzzw"
         data-category="mentoring"
-        data-category-id="DIC_kwDOK-Fzz84CcBPO"
+        data-category-id="DIC_kwDOK-Fzz84CcDVK"
         data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
